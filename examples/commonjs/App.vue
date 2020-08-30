@@ -69,7 +69,9 @@ export default {
 
 <style>
 .App {
-  text-align: center;
+  display: grid;
+  place-items: center;
+  height: 100vh;
 }
 
 .payButton {
