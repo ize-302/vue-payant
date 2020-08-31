@@ -1,7 +1,7 @@
 {
   "name": "vue-payant",
   "version": "1.0.0",
-  "description": "Vue Payant Component for Vue 2.x.",
+  "description": "Vue Payant Component",
   "main": "dist/payant.min.js",
   "scripts": {
     "lint": "eslint src --ext=js,vue  || exit 0",
